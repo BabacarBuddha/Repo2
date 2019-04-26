@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est EC84-5CA3
+
+ R‚pertoire de C:\Users\Babacar Buddha\Desktop\Myprojects
+
+25/04/2019  02:50    <DIR>          .
+25/04/2019  02:50    <DIR>          ..
+25/04/2019  02:50                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  19ÿ865ÿ354ÿ240 octets libres
